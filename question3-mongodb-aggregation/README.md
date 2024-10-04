@@ -1,5 +1,3 @@
-# gravity-assignment
-
 # How to run question3-mongodb-aggregation
 
 1. npm install
@@ -10,8 +8,3 @@
 # URL to get monthly report
 
 1. http://localhost:3000/api/sales/monthly
-
-# How to run question4-dynamic-todo-list-react
-
-1. npm install
-2. npm start
